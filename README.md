@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! 👋 I'm Satyam Singh
 
 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently a senior and pursuing Bachelor of Technology in Computer Science and Engineering.\
