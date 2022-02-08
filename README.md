@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/satyam-singh25/"><img src="https://img.shields.io/badge/-Satyam%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:satyamsinghkv2@gmail.com"><img src="https://img.shields.io/badge/-satyamsinghkv2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/Satyam25/_"><img src="https://img.shields.io/badge/-Satyam25-E4405F?style=flat&logo=Leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/Satyam25/"><img src="https://img.shields.io/badge/-Satyam25-E4405F?style=flat&logo=Leetcode&logoColor=white"/></a>
 </p>
 <!--
 **SatyamSingh25/SatyamSingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
