@@ -4,7 +4,7 @@
 🎓 &nbsp;I'm currently a senior and pursuing Bachelor of Technology in Computer Science and Engineering.\
 🌱 &nbsp;I'm an Android Developer and looking forward to learn and solve real life problems using my skills and creativity.\
 ✍️ &nbsp;I practice Competitive Programming to hone my problem solving skills.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1lvYGqn43sR_Ar8YFaeAp4YkbWLvGea7h/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1vC9qzv73RzyYtJLmMXYRxaAzQowBLaqL/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
