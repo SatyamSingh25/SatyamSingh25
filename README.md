@@ -16,6 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=Mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
+![aws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Oracle)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
